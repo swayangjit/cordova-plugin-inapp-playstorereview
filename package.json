@@ -6,7 +6,7 @@
     "release": "standard-version"
   },
   "cordova": {
-    "id": "cordova-plugin-inapp-review",
+    "id": "cordova-plugin-inapp-playstorereview",
     "platforms": [
       "android"
     ]
