@@ -1,0 +1,34 @@
+{
+  "name": "cordova-plugin-inapp-review",
+  "version": "1.0.0",
+  "description": "Cordova plugin which enables app to integrate in-app reviews APIs(Android)",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "cordova": {
+    "id": "cordova-plugin-inapp-review",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swayangjit/cordova-plugin-inapp-review.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Swayangjit",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/swayangjit/cordova-plugin-inapp-review/issues"
+  },
+  "homepage": "https://github.com/swayangjit/cordova-plugin-inapp-review#readme",
+  "devDependencies": {
+    "standard-version": "^8.0.1"
+  }
+}
