@@ -14,7 +14,7 @@ import org.json.JSONArray;
 import org.json.JSONException;
 
 /**
- * This plugin utilizes the Android TrafficStats class to get the network speed.
+ * This plugin utilizes the Play core API class to show the In app review flow.
  */
 public class InAppReviewPlugin extends CordovaPlugin {
     private static final String SHOW_INAPP_REVIEWFLOW = "showInAppReviewFlow";
