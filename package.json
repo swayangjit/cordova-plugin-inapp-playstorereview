@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-inapp-playstorereview",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Cordova plugin which enables app to integrate in-app reviews APIs(Android)",
   "types": "./types/cordova-plugin-inapp-playstorereview.d.ts",
   "scripts": {
